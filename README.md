@@ -5,6 +5,7 @@ Furthermore, it uses a for, if and some strategies I learned.
 
 The project is available at: 
 
-![image](https://github.com/GHTassinari/StudentsAverage2/assets/102005103/005a0796-fcfc-4ab1-902c-11619e8da92c)
+![image](https://github.com/GHTassinari/StudentsAverage2/assets/102005103/4fd9f55f-3a4f-4677-8738-d6cf7e6d332e)
+
 
 ![project-gif](./.github/first.gif)
